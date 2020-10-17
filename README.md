@@ -1,7 +1,6 @@
 # ECE511-Advanced-Telecommunication-Systems
-Telecommunication system simulator in Matlab
 
-The project is composed of four sub-assignments that use the Monte-Carlo method to simulate a telecommunication system (in Matlab).
+This project is composed of four sub-assignments that use the Monte-Carlo method to simulate a telecommunication system (in Matlab).
 
 In the first assignment, I implemented from scratch a discrete digital transmission AWGN channel with m-PSK modulation(BPSK/QPSK/8-PSK/16-PSK), with a changeable SNR value, size of oversampling and other parameters. It includes a BER evaluation for different SNR values.
 
