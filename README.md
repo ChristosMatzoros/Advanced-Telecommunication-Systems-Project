@@ -1,5 +1,4 @@
 # ECE511-Advanced-Telecommunication-Systems
-# Telecommunication system simulator in Matlab
 
 The project is composed of four sub-assignments that use the Monte-Carlo method to simulate a telecommunication system (in Matlab).
 
