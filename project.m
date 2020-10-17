@@ -1,10 +1,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %        Advanced  Topics        %  
 %  In Telecommunication Systems  %
-%           Homework 4           %
+%                                %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Matzoros Christos Konstantinos % 
-%            AEM:2169            %
+%                                %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %packages
@@ -12,9 +12,7 @@ pkg load signal;
 pkg load communications;
 close all;
 
-%%%%%%%%%%%%%%%%%%%%%%%
-% FOR HOMEWORKS 1 - 3 %
-%%%%%%%%%%%%%%%%%%%%%%%
+
 %Instructions in order to run the program correctly for every problem the homework 2:
 spect_flag = 0;
 %Uncomment the following line in order to compute and present the spectrum for the x,y of the y=x*h+w
